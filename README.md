@@ -1,6 +1,7 @@
 # homework0629_Create_DB
-以下為執行指令 
+
  `` 符號消失，請轉成編寫模式複製
+ 以下為執行指令 
 --------------------------------------------------------------------------------
 create database homework default character set utf8;
 
